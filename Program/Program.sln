@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class1th (Stream)", "..\Cla
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class2th (Class)", "..\Class2th (Class)\Class2th (Class).vcxproj", "{889D4227-2C24-4EA8-B38F-8C4565D0BEDA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class3th(Consturctor & Destructor)", "..\Class3th(Consturctor & Destructor)\Class3th(Consturctor & Destructor).vcxproj", "{BBF0E18D-B1F3-403D-88E7-D19F7A153869}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{889D4227-2C24-4EA8-B38F-8C4565D0BEDA}.Release|x64.Build.0 = Release|x64
 		{889D4227-2C24-4EA8-B38F-8C4565D0BEDA}.Release|x86.ActiveCfg = Release|Win32
 		{889D4227-2C24-4EA8-B38F-8C4565D0BEDA}.Release|x86.Build.0 = Release|Win32
+		{BBF0E18D-B1F3-403D-88E7-D19F7A153869}.Debug|x64.ActiveCfg = Debug|x64
+		{BBF0E18D-B1F3-403D-88E7-D19F7A153869}.Debug|x64.Build.0 = Debug|x64
+		{BBF0E18D-B1F3-403D-88E7-D19F7A153869}.Debug|x86.ActiveCfg = Debug|Win32
+		{BBF0E18D-B1F3-403D-88E7-D19F7A153869}.Debug|x86.Build.0 = Debug|Win32
+		{BBF0E18D-B1F3-403D-88E7-D19F7A153869}.Release|x64.ActiveCfg = Release|x64
+		{BBF0E18D-B1F3-403D-88E7-D19F7A153869}.Release|x64.Build.0 = Release|x64
+		{BBF0E18D-B1F3-403D-88E7-D19F7A153869}.Release|x86.ActiveCfg = Release|Win32
+		{BBF0E18D-B1F3-403D-88E7-D19F7A153869}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
